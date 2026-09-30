@@ -8,7 +8,7 @@
 
 Installation et configuration d'une machine virtuelle Ubuntu pour disposer d'un environnement de développement en **C/C++, assembleur et Java/JavaFX**. Le projet couvre la préparation de la VM, les comptes utilisateurs, les logiciels, le shell et la configuration d'Eclipse avec Scene Builder.
 
-J'ai réalisé l'intégralité de la partie technique et rédigé l'essentiel du guide d'installation. La documentation explique les manipulations pas à pas, avec des captures, pour permettre à une personne débutante de reproduire l'installation.
+La documentation explique les manipulations pas à pas, avec des captures, pour permettre à une personne débutante de reproduire l'installation.
 
 **[📖 Consulter le guide PDF](docs/guide-installation.pdf)** · **[📝 Télécharger le guide Word](docs/guide-installation.docx)**
 
@@ -84,7 +84,7 @@ Dans Eclipse, une extension de prise en charge d'une version de Java et l'instal
 
 ## 👤 Ma contribution
 
-J'ai assuré toute l'installation et la configuration technique de la machine virtuelle, ainsi que la majeure partie de la rédaction du guide. Un camarade a ensuite finalisé la documentation. Les auteurs du livrable collectif sont crédités dans le guide.
+J'ai assuré l'installation et la configuration technique de la machine virtuelle, ainsi que la rédaction de l'essentiel du guide. Les captures présentent l'environnement que j'ai mis en place.
 
 Ce projet m'a permis de travailler l'administration d'un poste Linux, la gestion des logiciels et des droits, la préparation d'un environnement de développement et la rédaction d'instructions compréhensibles par un utilisateur débutant.
 
